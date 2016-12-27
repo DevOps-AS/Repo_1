@@ -11,8 +11,8 @@
             "uri": "devops.sloppy.zone"
           },
           "mem": 64,
-          "image": "sloppy/apache-php",
-          "cmd": "/app.sh",
+          "image": "devopsas/repo_1",
+          "cmd": "",
           "instances": 1,
           "port_mappings": [
             {
